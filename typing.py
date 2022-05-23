@@ -1,4 +1,4 @@
-#coursera's help
+#Company Scenario
 #The company AOL is sold to a company called Snores, we have to replace the domain of emails listed as AOL and change it to Snores
 #live.com is now broadcast.com
 a = open("typing.txt","r")
